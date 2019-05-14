@@ -1,4 +1,4 @@
-# AWS Cloudwatch To Slack
+# AWS Lambda Slack Notification
 
 ## Installation
 
